@@ -1,0 +1,85 @@
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) ****************** Galaxy starting up ******************
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) Sound is ON
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) Music is ON
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) FPS display is ON
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) VSYNC is disabled
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) Checking for music directory
+10/5/2004 7:38:51 AM - (frmMain: Form_Load) Initializing DirectX7 object
+10/5/2004 7:38:51 AM - (DDraw: Initialize) Initializing DDraw object
+10/5/2004 7:38:51 AM - (DDraw: Initialize) Checking for gamma capability
+10/5/2004 7:38:51 AM - (DDraw: Initialize) Setting cooperative level
+10/5/2004 7:38:51 AM - (DDraw: Initialize) Changing resolution
+10/5/2004 7:38:51 AM - (DDraw: Initialize) Setting up the flipping chain
+10/5/2004 7:38:51 AM - (DDraw: Initialize) Creating primary surface
+10/5/2004 7:38:52 AM - (DDraw: Initialize) Creating backbuffer
+10/5/2004 7:38:52 AM - (DDraw: Initialize) Setting backbuffer text color
+10/5/2004 7:38:52 AM - (DDraw: Initialize) Creating gamma controller
+10/5/2004 7:38:52 AM - (DSound: Initialize) Initializing DSound object
+10/5/2004 7:38:52 AM - (DSound: Initialize) Setting cooperative level (DSSCL_PRIORITY)
+10/5/2004 7:38:52 AM - (frmMain: Form_Load) Initializing tickcount timer
+10/5/2004 7:38:52 AM - (frmMain: Form_Load) Commencing main game loop
+10/5/2004 7:38:52 AM - (Title: Initialize) Initializing title screen display
+10/5/2004 7:38:54 AM - (DSound: LoadMusic) Loading music: intro.dat
+10/5/2004 7:38:54 AM - (DSound: LoadMusic) Music file not found!  Disabling music...
+10/5/2004 7:39:00 AM - (Title: Terminate) Terminating title screen display
+10/5/2004 7:39:00 AM - (Tactical: Initialize) Initializing tactical display
+10/5/2004 7:39:02 AM - (Universe: LoadUniverse) Loading the universe 'universe.uni'...
+10/5/2004 7:39:02 AM - (Universe: LoadData) Loading the universe data...
+10/5/2004 7:39:02 AM - (Universe: LoadData) Loading universe sprites
+10/5/2004 7:39:03 AM - (Universe: LoadData) Loading the explosion sprites
+10/5/2004 7:39:04 AM - (Universe: LoadData) Loading explosion sounds
+10/5/2004 7:39:04 AM - (Universe: LoadUniverse) Universe loaded!
+10/5/2004 7:40:09 AM - (frmMain: Form_Load) ****************** Shutting down ******************
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) ****************** Galaxy starting up ******************
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) Sound is ON
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) Music is OFF
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) FPS display is ON
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) VSYNC is disabled
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) Checking for music directory
+1/5/2005 10:42:20 AM - (frmMain: Form_Load) Initializing DirectX7 object
+1/5/2005 10:42:20 AM - (DDraw: Initialize) Initializing DDraw object
+1/5/2005 10:42:20 AM - (DDraw: Initialize) Checking for gamma capability
+1/5/2005 10:42:20 AM - (DDraw: Initialize) Setting cooperative level
+1/5/2005 10:42:20 AM - (DDraw: Initialize) Changing resolution
+1/5/2005 10:42:22 AM - (DDraw: Initialize) Setting up the flipping chain
+1/5/2005 10:42:22 AM - (DDraw: Initialize) Creating primary surface
+1/5/2005 10:42:22 AM - (DDraw: Initialize) Creating backbuffer
+1/5/2005 10:42:22 AM - (DDraw: Initialize) Setting backbuffer text color
+1/5/2005 10:42:22 AM - (DDraw: Initialize) Creating gamma controller
+1/5/2005 10:42:23 AM - (DSound: Initialize) Initializing DSound object
+1/5/2005 10:42:24 AM - (DSound: Initialize) Setting cooperative level (DSSCL_PRIORITY)
+1/5/2005 10:42:24 AM - (frmMain: Form_Load) Initializing tickcount timer
+1/5/2005 10:42:24 AM - (frmMain: Form_Load) Commencing main game loop
+1/5/2005 10:42:24 AM - (Title: Initialize) Initializing title screen display
+1/5/2005 10:42:45 AM - (Title: Terminate) Terminating title screen display
+1/5/2005 10:42:45 AM - (Tactical: Initialize) Initializing tactical display
+1/5/2005 10:42:46 AM - (Universe: LoadUniverse) Loading the universe 'universe.uni'...
+1/5/2005 10:42:46 AM - (Universe: LoadData) Loading the universe data...
+1/5/2005 10:42:46 AM - (Universe: LoadData) Loading universe sprites
+1/5/2005 10:42:48 AM - (Universe: LoadData) Loading the explosion sprites
+1/5/2005 10:42:48 AM - (Universe: LoadData) Loading explosion sounds
+1/5/2005 10:42:49 AM - (Universe: LoadUniverse) Universe loaded!
+1/5/2005 10:43:06 AM - (Tactical: Terminate) Terminating tactical display
+1/5/2005 10:43:06 AM - (Title: Initialize) Initializing title screen display
+1/5/2005 10:43:17 AM - (Title: Terminate) Terminating title screen display
+1/5/2005 10:43:17 AM - (Tactical: Initialize) Initializing tactical display
+1/5/2005 10:43:18 AM - (Universe: LoadUniverse) Loading the universe 'universe.uni'...
+1/5/2005 10:43:18 AM - (Universe: LoadData) Loading the universe data...
+1/5/2005 10:43:18 AM - (Universe: LoadData) Loading universe sprites
+1/5/2005 10:43:18 AM - (Universe: LoadData) Loading the explosion sprites
+1/5/2005 10:43:18 AM - (Universe: LoadData) Loading explosion sounds
+1/5/2005 10:43:19 AM - (Universe: LoadUniverse) Universe loaded!
+1/5/2005 10:43:53 AM - (Tactical: Terminate) Terminating tactical display
+1/5/2005 10:43:53 AM - (Title: Initialize) Initializing title screen display
+1/5/2005 10:44:03 AM - (Title: Terminate) Terminating title screen display
+1/5/2005 10:44:03 AM - (Tactical: Initialize) Initializing tactical display
+1/5/2005 10:44:05 AM - (Universe: LoadUniverse) Loading the universe 'universe.uni'...
+1/5/2005 10:44:05 AM - (Universe: LoadData) Loading the universe data...
+1/5/2005 10:44:05 AM - (Universe: LoadData) Loading universe sprites
+1/5/2005 10:44:05 AM - (Universe: LoadData) Loading the explosion sprites
+1/5/2005 10:44:05 AM - (Universe: LoadData) Loading explosion sounds
+1/5/2005 10:44:05 AM - (Universe: LoadUniverse) Universe loaded!
+1/5/2005 10:45:08 AM - (Tactical: Terminate) Terminating tactical display
+1/5/2005 10:45:08 AM - (Title: Initialize) Initializing title screen display
+1/5/2005 10:45:22 AM - (Title: Terminate) Terminating title screen display
+1/5/2005 10:45:22 AM - (frmMain: Form_Load) ****************** Shutting down ******************

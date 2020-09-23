@@ -1,0 +1,14 @@
+1, LONG containing the location of the footer
+.
+. Bitmap info
+.
+EOF Footer
+
+
+Footer format
+
+Type FOOTERTYPE
+    strFileName() as String
+    lngFileLocation() as Long
+End Type
+Global gudtFooter as FOOTERTYPE
